@@ -8,8 +8,9 @@ Vedtektene er basert på:
 * Mal for [vedtekter hos på Altinn][altinn-mal]
 * Revolve NTNU sine vedtekter
 
-Vedtektene kompileres til pdf ved hjelp av [Sharelatex]. Klikk [her for å åpne pdf av nyeste kompilerte versjon][latest-pdf].
+Vedtektene kompileres til pdf ved hjelp av [Sharelatex]. Klikk [her for å åpne pdf av nyeste kompilerte versjon][latest-pdf]. Klikk [her for å se all data synliggjort av Sharelatex CI][Sharelatex-CI].
 
 [altinn-mal]: https://www.altinn.no/no/Starte-og-drive-bedrift/Forberede/Velge-organisasjonsform/Hva-er-en-forening/
 [Sharelatex]: https://www.sharelatex.com/
 [latest-pdf]: https://www.sharelatex.com/github/repos/johhat/Vedtekter-Ascend/builds/latest/output.pdf
+[Sharelatex-CI]: https://www.sharelatex.com/github/repos/johhat/Vedtekter-Ascend
